@@ -13,7 +13,7 @@
 # Potential Impact: Objective mode of satisfying consumers and building trust on growers, processors. Better export deals 	
 # Data set: https://www.kaggle.com/datasets/fahmidachowdhury/food-adulteration-dataset/data 
 
-# presentation link:
+
 
 
 
