@@ -15,6 +15,6 @@
 
 
 
-
+Presentation Link: https://docs.google.com/presentation/d/1CqX0WwHfTqai2ciLpnPJr5LdF2DYvpBV/edit?usp=sharing&ouid=101876076253397162803&rtpof=true&sd=true
 
 google Drive link: https://drive.google.com/drive/folders/1dWFyL0obnc6F1VAixI9lu2inLYe4wuiG?usp=sharing
