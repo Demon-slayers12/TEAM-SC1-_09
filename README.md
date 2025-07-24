@@ -41,6 +41,8 @@ We are using a publicly available dataset on Kaggle:
 
 ## 📂 Slides
 
+![Slide Preview](./slides/food-analysis-1.png)
+
 ---
 
 ## ⬇️ Download Section
