@@ -1,20 +1,51 @@
-# Team Name- TEAM(SC1)_09
+# 🌱 Food Adulteration Detection System - TEAM(SC1)_09
 
-# Team Member name:
-# 1.Abhisekh Pattnaik(24CSEAIML218)
-# 2.Ansuman Dash(24CSEAIML059)
-# 3.Debashis Panda(24CSEAIML001)
-# 4.MD Arshyan Ahmad(24CSE376)
+## 👥 Team Members
 
-# Problem Statement:
-# Use of technology to test adulteration of fresh produce
+| Name                | Roll No           |
+|---------------------|-------------------|
+| Abhisekh Pattnaik   | 24CSEAIML218      |
+| Ansuman Dash        | 24CSEAIML059      |
+| Debashis Panda      | 24CSEAIML001      |
+| MD Arshyan Ahmad    | 24CSE376          |
 
-#	Description: Adulteration of food pose a serious risk to human health. Adulterated Food has lower quality and is less nutritive.
-# Potential Impact: Objective mode of satisfying consumers and building trust on growers, processors. Better export deals 	
-# Data set: https://www.kaggle.com/datasets/fahmidachowdhury/food-adulteration-dataset/data 
+---
+
+## 🧠 Problem Statement
+
+**Use of technology to test adulteration of fresh produce**
+
+### 📄 Description
+
+Adulteration of food poses a serious risk to human health. Adulterated food has lower quality and is less nutritive. 
+This project focuses on building a smart, data-driven system to detect and classify adulterated food items using machine learning and analytical models.
+
+### 🌍 Potential Impact
+
+- Enables an **objective mode** of satisfying consumers.
+- Builds **trust** among consumers, growers, and food processors.
+- Helps ensure **better export deals** and food quality control.
+
+---
+
+## 📊 Dataset Used
+
+We are using a publicly available dataset on Kaggle:
+
+🔗 [Food Adulteration Dataset](https://www.kaggle.com/datasets/fahmidachowdhury/food-adulteration-dataset/data)
+
+---
 
 
+---
 
-Presentation Link: https://docs.google.com/presentation/d/1CqX0WwHfTqai2ciLpnPJr5LdF2DYvpBV/edit?usp=sharing&ouid=101876076253397162803&rtpof=true&sd=true
+## 📂 Slides
 
-google Drive link: https://drive.google.com/drive/folders/1dWFyL0obnc6F1VAixI9lu2inLYe4wuiG?usp=sharing
+---
+
+## ⬇️ Download Section
+
+- 📑 [Full Presentation Slides](./slides/food-analysis-1.png)
+- 🎥 [Download Demo Video](https://drive.google.com/drive/folders/1dWFyL0obnc6F1VAixI9lu2inLYe4wuiG?usp=sharing)
+
+---
